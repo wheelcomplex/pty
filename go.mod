@@ -1,3 +1,3 @@
-module github.com/kr/pty
+module github.com/wheelcomplex/pty
 
 go 1.12
