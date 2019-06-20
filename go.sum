@@ -1,3 +1,5 @@
+github.com/wheelcomplex/filetype v1.0.9 h1:09mg32iG93uo38VejgqRkKOy550hc0ZTDm+lfgsGlPM=
+github.com/wheelcomplex/filetype v1.0.9/go.mod h1:Mk00DIhaeUFJ63hJxxxsosCy+nhfGY2C5y81PtBBnW8=
 github.com/wheelcomplex/permbits v0.0.0-20190612203442-39d7c581d2ee h1:k0Bvg74Oa/SdvkMB3QJifYY31lMvE068Qi4QQklGRY0=
 github.com/wheelcomplex/permbits v0.0.0-20190612203442-39d7c581d2ee/go.mod h1:4GU3htzZTKl2HFY9vfoN2CrjAvyS/BdVpFiLqz3Tfsw=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
